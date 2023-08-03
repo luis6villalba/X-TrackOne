@@ -1,2 +1,2 @@
 # XIXO
-Página web para presentar la nueva herramienta de rastreo personal
+Página web para presentar la nueva herramienta de rastreo satelital
