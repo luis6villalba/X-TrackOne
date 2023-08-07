@@ -1,10 +1,10 @@
-# X-TracK
+# X-TracKOne
 
-Space Program
+Pagina Web
 
-# Space Track Project with viteJS Vanilla, Sass and Responsive Design
+# X-TrackOne Project with HTML, C.SS and Responsive Design
 
-`<link>` : <https://ingdonovan.github.io/space-track/>
+`<link>` : <https://luis6villalba.github.io/X-TrackOne/>
 
 ## Description
 
@@ -16,49 +16,29 @@ Space Program
 
 ## Technologies Used
 
-- ViteJS
-- Vanilla
-- CSS3 (with Sass)
-- JavaScript
+- CSS
+- HTML
 - Responsive Design
 
 ## Preview
-Below is a preview of the X-Track:
+Below is a preview of the X-TrackOne:
 
-`<link>` : <https://ingdonovan.github.io/space-track/>
+`<link>` : <https://luis6villalba.github.io/X-TrackOne/>
 
 ## Installation and Usage
 Clone this repository:
 
 ```bash
-git clone https://github.com/IngDonovan/space-track.git
+git clone https://github.com/luis6villalba/X-TrackOne.git
 ```
 1. Use the cd command again to enter the cloned repository directory:
 
 ```bash
-cd space-track
+cd X-TrackOne
 ```
-2. Install Dependencies: Vite.js uses Node.js for development, so you need to install the project's dependencies. Run the following command:
-```bash
-npm install 
-```
-or
-```bash
-npm i 
-```
-Alternatively, if you prefer to use Yarn:
-```bash
-yarn
-```
-3. Run the Project: Once the dependencies are installed, you can run the project using Vite's development command:
-```bash
-npm run dev
-```
-Or with Yarn:
-```bash
-yarn dev
-```
-This will start the Vite development server, and you can access your project in the browser at the indicated address (usually http://localhost:5173).
+2. Install Dependencies: HTML uses only C.SS at the moment, so it is not necessary to install any specialized library for its use.
+
+3. Run the Project: Once you have cloned the repository, you can run the project.
 
 ## Contribution
 
